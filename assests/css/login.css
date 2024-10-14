@@ -17,7 +17,7 @@ body {
 .container {
     position: relative;
     width: 100%;
-    background-color: var(--main-color);
+    /* background-color: var(--main-color); */
     min-height: 100vh;
     overflow: hidden;
 }
@@ -257,7 +257,7 @@ form.sign-in-form {
     top: -10%;
     right: 48%;
     transform: translateY(-50%);
-    background-color: var(--main-color);
+    background-color: red;
     transition: 1.8s ease-in-out;
     border-radius: 50%;
     z-index: 6;
